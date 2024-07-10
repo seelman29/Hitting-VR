@@ -1,7 +1,3 @@
-﻿/* Copyright (c) 2017-present Evereal. All rights reserved. */
-
-// #define VRVIDEOPLAYER_EASYMOVIETEXTURE
-// #define VRVIDEOPLAYER_AVPROVIDEO
 
 using UnityEngine;
 using UnityEngine.Events;
