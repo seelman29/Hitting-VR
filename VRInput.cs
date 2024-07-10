@@ -1,8 +1,4 @@
-﻿/* Copyright (c) 2017-present Evereal. All rights reserved. */
-
-// #define VRVIDEOPLAYER_OCULUS
-// #define VRVIDEOPLAYER_STEAMVR
-
+﻿
 using System;
 using UnityEngine;
 #if VRVIDEOPLAYER_STEAMVR
